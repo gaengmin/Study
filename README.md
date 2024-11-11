@@ -6,8 +6,8 @@
 
 ## 목차
 ### 1부. 기본편
-1. [스프링 개요](https://velog.io/@gaengmin)
-2. [웹 애플리케이션 개요](https://velog.io/@gaengmin)
+1. [스프링 개요]([https://velog.io/@gaengmin](https://velog.io/@gaengmin/Spring그림으로-배우는-스프링-6-Chapter1장)) 241111
+2. [웹 애플리케이션 개요]([https://velog.io/@gaengmin](https://velog.io/@gaengmin/Spring그림으로-배우는-스프링-6-Chapter2장)) 241111
 3. [DI의 개념](https://velog.io/@gaengmin)
 4. [DI 컨테이너](https://velog.io/@gaengmin)
 5. [스테레오타입 애너테이션](https://velog.io/@gaengmin)
