@@ -8,8 +8,8 @@
 ### 1부. 기본편
 1. [스프링 개요 - 241111](https://velog.io/@gaengmin/Spring그림으로-배우는-스프링-6-Chapter1장) 
 2. [웹 애플리케이션 개요 - 241111](https://velog.io/@gaengmin/Spring그림으로-배우는-스프링-6-Chapter2장) 
-3. [DI의 개념](https://velog.io/@gaengmin)
-4. [DI 컨테이너](https://velog.io/@gaengmin)
+3. [DI의 개념 - 241112](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-Chapter3-4%EC%9E%A5)
+4. [DI 컨테이너 - 241112](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-Chapter3-4%EC%9E%A5)
 5. [스테레오타입 애너테이션](https://velog.io/@gaengmin)
 6. [프로파일로 설정 전환하기](https://velog.io/@gaengmin)
 7. [JavaConfig와 @Bean 메서드](https://velog.io/@gaengmin)
