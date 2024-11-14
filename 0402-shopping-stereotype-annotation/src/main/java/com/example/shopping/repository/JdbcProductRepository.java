@@ -1,7 +1,9 @@
 package com.example.shopping.repository;
 
 import com.example.shopping.entity.Product;
+import org.springframework.stereotype.Repository;
 
+@Repository //레포지터리 어노테이션 처리
 public class JdbcProductRepository implements ProductRepository {
     @Override
     public Product selectById(String id) {
