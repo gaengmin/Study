@@ -3,10 +3,12 @@ package com.example.training.repository;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Repository;
 
 import com.example.training.entity.Training;
 
+@Profile("dev")
 @Repository
 public class ExternalTrainingRepository implements TrainingRepository {
     @Override
