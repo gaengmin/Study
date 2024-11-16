@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
@@ -14,6 +15,11 @@ import com.example.shopping.input.CartInput;
 import com.example.shopping.input.CartItemInput;
 import com.example.shopping.input.OrderInput;
 import com.example.shopping.service.OrderService;
+import org.springframework.jdbc.datasource.embedded.EmbeddedDatabase;
+import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
+import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType;
+
+import javax.sql.DataSource;
 
 @Configuration
 @ComponentScan
@@ -53,6 +59,13 @@ public class ShoppingApplication {
         Order order = orderService.placeOrder(orderInput, cartInput);
 
         System.out.println("주문 확정 처리를 완료했습니다. 주문 ID=" + order.getId());
+    }
+    @Bean
+    public DataSource dataSource() {
+        EmbeddedDatabase dataSource = new EmbeddedDatabaseBuilder()
+                .addScripts("schema.sql", "data.sql")
+                .setType(EmbeddedDatabaseType.H2).build();
+        return dataSource;
     }
 }
 

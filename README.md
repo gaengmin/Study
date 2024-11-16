@@ -12,7 +12,7 @@
 4. [DI 컨테이너 - 241112](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-Chapter3-4%EC%9E%A5)
 5. [스테레오타입 애너테이션](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-Chapter5%EC%9E%A5)
 6. [프로파일로 설정 전환하기](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-6%EC%9E%A5-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%84%A4%EC%A0%95-%EC%A0%84%ED%99%98)
-7. [JavaConfig와 @Bean 메서드](https://velog.io/@gaengmin)
+7. [JavaConfig와 @Bean 메서드](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-7%EC%9E%A5-JavaConfig-Bean-%EB%A9%94%EC%86%8C%EB%93%9C)
 8. [스프링 JDBC: 데이터베이스 접근](https://velog.io/@gaengmin)
 9. [선언적 트랜잭션](https://velog.io/@gaengmin)
 10. [스프링 부트로 생산성 향상하기](https://velog.io/@gaengmin)
