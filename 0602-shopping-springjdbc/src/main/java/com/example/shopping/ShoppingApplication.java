@@ -1,11 +1,13 @@
 package com.example.shopping;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import javax.sql.DataSource;
-
+import ch.qos.logback.classic.Level;
+import ch.qos.logback.classic.Logger;
+import com.example.shopping.entity.Order;
+import com.example.shopping.enumeration.PaymentMethod;
+import com.example.shopping.input.CartInput;
+import com.example.shopping.input.CartItemInput;
 import com.example.shopping.input.OrderInput;
+import com.example.shopping.service.OrderService;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -17,14 +19,9 @@ import org.springframework.jdbc.datasource.embedded.EmbeddedDatabase;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
 import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType;
 
-import com.example.shopping.entity.Order;
-import com.example.shopping.enumeration.PaymentMethod;
-import com.example.shopping.input.CartInput;
-import com.example.shopping.input.CartItemInput;
-import com.example.shopping.service.OrderService;
-
-import ch.qos.logback.classic.Level;
-import ch.qos.logback.classic.Logger;
+import javax.sql.DataSource;
+import java.util.ArrayList;
+import java.util.List;
 
 @Configuration
 @ComponentScan
@@ -38,10 +35,15 @@ public class ShoppingApplication {
         return dataSource;
     }
 
+    @Bean
+    JdbcTemplate jdbcTemplate(DataSource dataSource) {
+        return new JdbcTemplate(dataSource);
+    }
+
     public static void main(String[] args) {
 
         @SuppressWarnings("resource")
-		ApplicationContext context = new AnnotationConfigApplicationContext(ShoppingApplication.class);
+        ApplicationContext context = new AnnotationConfigApplicationContext(ShoppingApplication.class);
         // JdbcTemplate이 SQL을 로그 출력하도록 설정
         ((Logger) LoggerFactory.getLogger(JdbcTemplate.class.getName())).setLevel(Level.DEBUG);
         OrderService orderService = context.getBean(OrderService.class);

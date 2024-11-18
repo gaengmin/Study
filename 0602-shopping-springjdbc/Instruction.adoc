@@ -8,9 +8,15 @@ JdbcTemplate 클래스를 사용하지 않는 프로그램을 JdbcTemplate 클�
 
 . 필요한 조치를 취한 후 다시 TrainingApplication 클래스를 실행해 봅시다. 잘 동작할 것입니다.
 
+  @Bean
+    JdbcTemplate jdbcTemplate(DataSource dataSource) {
+        return new JdbcTemplate(dataSource);
+    }
+을 선언함으로써 JdbcTemplaet를 통해 dataSource가 들어오도록 처리
+
 . JdbcOrderItemRepository 클래스 내부를 확인해보면, JdbcTemplate 클래스를 사용하지 않습니다. JdbcTemplate 클래스를 사용하도록 수정하고, TrainingApplication 클래스를 실행하여 잘 동작하도록 수정해 봅시다.
-
+수정완료
 . JdbcProductRepository 클래스도 JdbcTemplate 클래스를 사용하지 않으므로 JdbcTemplate 클래스를 사용하도록 수정하고 TrainingApplication 클래스를 실행하여 잘 동작하도록 수정해 봅시다.
-
+수정 완료
 === 옵션
 . JdbcOrderRepository 클래스에 ID로 검색하여 Order 객체를 가져오는 메서드를 추가해 봅시다. 추가가 끝나면, TrainingApplication 클래스의 main 메서드에서 주문 확정이 완료된 후, DI 컨테이너에서 JdbcOrderRepository 클래스의 Bean을 가져와서 추가한 메서드를 통해 등록된 주문 데이터를 가져올 수 있는지 확인해봅시다.

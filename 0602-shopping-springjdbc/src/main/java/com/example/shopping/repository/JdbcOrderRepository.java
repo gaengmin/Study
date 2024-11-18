@@ -25,4 +25,5 @@ public class JdbcOrderRepository implements OrderRepository {
                 order.getCustomerEmailAddress(),
                 order.getPaymentMethod().toString());
     }
+
 }
