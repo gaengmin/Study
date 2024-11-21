@@ -16,7 +16,7 @@
 8. [스프링 JDBC: 데이터베이스 접근 1](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-8%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-JDBC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A0%91%EA%B7%BC-1) | [스프링 JDBC: 데이터베이스 접근 2](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-8%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-JDBC-JdbcTemplate-%ED%81%B4%EB%9E%98%EC%8A%A4-2)
 9. [선언적 트랜잭션](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-9)
 10. [스프링 부트로 생산성 향상하기](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-10%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8)
-11. [스프링 MVC + Thymeleaf](https://velog.io/@gaengmin)
+11. [스프링 MVC + Thymeleaf](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-11%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-MVC)
 12. [RESTful 웹 서비스 만들기](https://velog.io/@gaengmin)
 13. [갱신 계열 REST API 만들기](https://velog.io/@gaengmin)
 14. [스프링 시큐리티](https://velog.io/@gaengmin)
