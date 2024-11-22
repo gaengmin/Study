@@ -3,8 +3,8 @@
 ![표지](cover.jpg)
 
 # 1장: 도커란 무엇인가
-- [01 도커란 무엇인가?](https://velog.io/@gaengmin/posts)
-- [02 서버와 도커](https://velog.io/@gaengmin/posts)
+- [01 도커란 무엇인가?](https://velog.io/@gaengmin/Docker1-1-%EB%8F%84%EC%BB%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+- [02 서버와 도커](https://velog.io/@gaengmin/Docker1-2-%EC%84%9C%EB%B2%84%EC%99%80-%EB%8F%84%EC%BB%A4)
 
 # 2장: 도커의 동작 원리
 - [01 도커의 동작 원리](https://velog.io/@gaengmin/posts)
