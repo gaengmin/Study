@@ -17,10 +17,11 @@
 9. [선언적 트랜잭션](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-9)
 10. [스프링 부트로 생산성 향상하기](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-10%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8)
 11. [스프링 MVC + Thymeleaf](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-11%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-MVC)
-12. [RESTful 웹 서비스 만들기](https://velog.io/@gaengmin)
-13. [갱신 계열 REST API 만들기](https://velog.io/@gaengmin)
-14. [스프링 시큐리티](https://velog.io/@gaengmin)
+12. [RESTful 웹 서비스 만들기](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-12%EC%9E%A5-RESTful-%EC%9B%B9-Service1-REST%EB%9E%80) | [스프링 MVC의 REST 기능](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-12%EC%9E%A5-%EC%8A%A4%ED%94%84%EB%A7%81-MVC%EC%9D%98-REST-%EA%B8%B0%EB%8A%A5)
+13. [참조 및 갱신 REST API 만들기](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-13%EC%9E%A5-REST-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+14. [스프링 시큐리티 필터에 대한 공부](https://velog.io/@gaengmin/Spring%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%8A%A4%ED%94%84%EB%A7%81-6-14%EC%9E%A5-Spring-Security-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%ED%9D%90%EB%A6%84) | 
 
+--- 
 ### 2부. 실무편
 15. [싱글톤과 스레드 세이프](https://velog.io/@gaengmin)
 16. [스프링 JDBC: JOIN 결과 가져오기](https://velog.io/@gaengmin)
