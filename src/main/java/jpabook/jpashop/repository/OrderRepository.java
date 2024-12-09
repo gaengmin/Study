@@ -1,13 +1,12 @@
 package jpabook.jpashop.repository;
 
-import jpabook.jpashop.domain.Item;
+import jpabook.jpashop.domain.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-
-public interface ItemRepository extends JpaRepository<Item, Long> {
-
-    default Item findOne(Long id) {
-
+public interface OrderRepository extends JpaRepository<Order, Long> {
+    default Order findOne(Long id) {
         return findById(id).orElse(null);
     }
 }
+
+
