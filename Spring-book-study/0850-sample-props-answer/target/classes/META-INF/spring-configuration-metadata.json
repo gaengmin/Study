@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "discount",
+      "type": "com.example.sample.service.DiscountProperties",
+      "sourceType": "com.example.sample.service.DiscountProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "discount.max",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.sample.service.DiscountProperties"
+    },
+    {
+      "name": "discount.rate",
+      "type": "java.lang.Double",
+      "sourceType": "com.example.sample.service.DiscountProperties"
+    }
+  ],
+  "hints": []
+}

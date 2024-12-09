@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="1200-calculate-singleton" />
+        <module name="0850-sample-props" />
+        <module name="0502-shopping-at-bean-answer" />
+        <module name="1701-training-securitycontext-answer" />
+        <module name="1401-training-data-exception-answer" />
+        <module name="0902-shopping-mvc-answer" />
+        <module name="2302-shopping-selenide-answer" />
+        <module name="0701-training-transaction" />
+        <module name="0902-shopping-mvc" />
+        <module name="1601-training-mvc-flash-scope-answer" />
+        <module name="0850-sample-props-answer" />
+        <module name="2251-training-test-rest" />
+        <module name="1931-training-test-overview" />
+        <module name="1200-calculate-singleton-answer" />
+        <module name="1802-shopping-rest-update" />
+        <module name="0402-shopping-stereotype-annotation" />
+        <module name="0301-training-di" />
+        <module name="2201-training-test-security-answer" />
+        <module name="0002-shopping-common" />
+        <module name="1601-training-mvc-session-scope" />
+        <module name="2102-shopping-test-controller-answer" />
+        <module name="1902-shopping-resttemplate-answer" />
+        <module name="1701-training-securitycontext" />
+        <module name="1972-shopping-test-service" />
+        <module name="0502-shopping-at-bean" />
+        <module name="0301-training-di-answer" />
+        <module name="2002-shopping-test-service-repository-answer" />
+        <module name="2102-shopping-test-controller" />
+        <module name="0451-training-profile" />
+        <module name="0701-training-transaction-answer" />
+        <module name="2152-shopping-test-controller-service-repository" />
+        <module name="0801-training-boot-answer" />
+        <module name="1601-training-mvc-flash-scope" />
+        <module name="0402-shopping-stereotype-annotation-answer" />
+        <module name="2002-shopping-test-service-repository" />
+        <module name="2251-training-test-rest-answer" />
+        <module name="1972-shopping-test-service-answer" />
+        <module name="2201-training-test-security" />
+        <module name="0602-shopping-springjdbc" />
+        <module name="1002-shopping-rest" />
+        <module name="0602-shopping-springjdbc-answer" />
+        <module name="1401-training-data-exception" />
+        <module name="2152-shopping-test-controller-service-repository-answer" />
+        <module name="1102-shopping-security" />
+        <module name="1302-shopping-join-answer" />
+        <module name="1931-training-test-overview-answer" />
+        <module name="1002-shopping-rest-answer" />
+        <module name="1952-shopping-test-repository" />
+        <module name="1952-shopping-test-repository-answer" />
+        <module name="1302-shopping-join" />
+        <module name="2302-shopping-selenide" />
+        <module name="0001-training-common" />
+        <module name="1501-training-propagation" />
+        <module name="1902-shopping-resttemplate" />
+        <module name="1102-shopping-security-answer" />
+        <module name="0801-training-boot" />
+        <module name="0451-training-profile-answer" />
+        <module name="1802-shopping-rest-update-answer" />
+        <module name="1501-training-propagation-answer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="0001-training-common" options="-parameters" />
+      <module name="0002-shopping-common" options="-parameters" />
+      <module name="0301-training-di" options="-parameters" />
+      <module name="0301-training-di-answer" options="-parameters" />
+      <module name="0402-shopping-stereotype-annotation" options="-parameters" />
+      <module name="0402-shopping-stereotype-annotation-answer" options="-parameters" />
+      <module name="0451-training-profile" options="-parameters" />
+      <module name="0451-training-profile-answer" options="-parameters" />
+      <module name="0502-shopping-at-bean" options="-parameters" />
+      <module name="0502-shopping-at-bean-answer" options="-parameters" />
+      <module name="0602-shopping-springjdbc" options="-parameters" />
+      <module name="0602-shopping-springjdbc-answer" options="-parameters" />
+      <module name="0701-training-transaction" options="-parameters" />
+      <module name="0701-training-transaction-answer" options="-parameters" />
+      <module name="0801-training-boot" options="-parameters" />
+      <module name="0801-training-boot-answer" options="-parameters" />
+      <module name="0850-sample-props" options="-parameters" />
+      <module name="0850-sample-props-answer" options="-parameters" />
+      <module name="0902-shopping-mvc" options="-parameters" />
+      <module name="0902-shopping-mvc-answer" options="-parameters" />
+      <module name="1002-shopping-rest" options="-parameters" />
+      <module name="1002-shopping-rest-answer" options="-parameters" />
+      <module name="1102-shopping-security" options="-parameters" />
+      <module name="1102-shopping-security-answer" options="-parameters" />
+      <module name="1200-calculate-singleton" options="-parameters" />
+      <module name="1200-calculate-singleton-answer" options="-parameters" />
+      <module name="1302-shopping-join" options="-parameters" />
+      <module name="1302-shopping-join-answer" options="-parameters" />
+      <module name="1401-training-data-exception" options="-parameters" />
+      <module name="1401-training-data-exception-answer" options="-parameters" />
+      <module name="1501-training-propagation" options="-parameters" />
+      <module name="1501-training-propagation-answer" options="-parameters" />
+      <module name="1601-training-mvc-flash-scope" options="-parameters" />
+      <module name="1601-training-mvc-flash-scope-answer" options="-parameters" />
+      <module name="1601-training-mvc-session-scope" options="-parameters" />
+      <module name="1701-training-securitycontext" options="-parameters" />
+      <module name="1701-training-securitycontext-answer" options="-parameters" />
+      <module name="1802-shopping-rest-update" options="-parameters" />
+      <module name="1802-shopping-rest-update-answer" options="-parameters" />
+      <module name="1902-shopping-resttemplate" options="-parameters" />
+      <module name="1902-shopping-resttemplate-answer" options="-parameters" />
+      <module name="1931-training-test-overview" options="-parameters" />
+      <module name="1931-training-test-overview-answer" options="-parameters" />
+      <module name="1952-shopping-test-repository" options="-parameters" />
+      <module name="1952-shopping-test-repository-answer" options="-parameters" />
+      <module name="1972-shopping-test-service" options="-parameters" />
+      <module name="1972-shopping-test-service-answer" options="-parameters" />
+      <module name="2002-shopping-test-service-repository" options="-parameters" />
+      <module name="2002-shopping-test-service-repository-answer" options="-parameters" />
+      <module name="2102-shopping-test-controller" options="-parameters" />
+      <module name="2102-shopping-test-controller-answer" options="-parameters" />
+      <module name="2152-shopping-test-controller-service-repository" options="-parameters" />
+      <module name="2152-shopping-test-controller-service-repository-answer" options="-parameters" />
+      <module name="2201-training-test-security" options="-parameters" />
+      <module name="2201-training-test-security-answer" options="-parameters" />
+      <module name="2251-training-test-rest" options="-parameters" />
+      <module name="2251-training-test-rest-answer" options="-parameters" />
+      <module name="2302-shopping-selenide" options="-parameters" />
+      <module name="2302-shopping-selenide-answer" options="-parameters" />
+    </option>
+  </component>
+</project>

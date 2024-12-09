@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/0001-training-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0002-shopping-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0301-training-di-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0301-training-di/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0402-shopping-stereotype-annotation-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0402-shopping-stereotype-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0451-training-profile-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0451-training-profile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0502-shopping-at-bean-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0502-shopping-at-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0602-shopping-springjdbc-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0602-shopping-springjdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0701-training-transaction-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0701-training-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0801-training-boot-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0801-training-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0850-sample-props-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0850-sample-props/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0902-shopping-mvc-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/0902-shopping-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1002-shopping-rest-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1002-shopping-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1102-shopping-security-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1102-shopping-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1200-calculate-singleton-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1200-calculate-singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1302-shopping-join-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1302-shopping-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1401-training-data-exception-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1401-training-data-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1501-training-propagation-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1501-training-propagation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1601-training-mvc-flash-scope-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1601-training-mvc-flash-scope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1601-training-mvc-session-scope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1701-training-securitycontext-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1701-training-securitycontext/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1802-shopping-rest-update-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1802-shopping-rest-update/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1902-shopping-resttemplate-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1902-shopping-resttemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1931-training-test-overview-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1931-training-test-overview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1952-shopping-test-repository-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1952-shopping-test-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1972-shopping-test-service-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1972-shopping-test-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2002-shopping-test-service-repository-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2002-shopping-test-service-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2102-shopping-test-controller-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2102-shopping-test-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2152-shopping-test-controller-service-repository-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2152-shopping-test-controller-service-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2201-training-test-security-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2201-training-test-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2251-training-test-rest-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2251-training-test-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2302-shopping-selenide-answer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2302-shopping-selenide/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
